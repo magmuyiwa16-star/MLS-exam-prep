@@ -1,2 +1,3 @@
 # MLS-exam-prep
-An exam simulator with CBT, viva voce and practical case studies to help prepare MLS students for practical, posting and first professional exams.
+MLS exam prep is a Medical Laboratory Science exam simulator featuring CBT, viva voce, and practical case studies.
+It is designed to replicate real teaching hospital exam conditions (UCH, OOUTH) to help students prepare for practicals, postings and professional examinations.
